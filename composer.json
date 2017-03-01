@@ -1,0 +1,16 @@
+{
+    "name": "timwolla/u2f",
+    "type": "library",
+    "require": {
+    },
+    "autoload": {
+        "psr-4": { "TimWolla\\U2F\\": "src/" }
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tim Düsterhus",
+            "email": "tim@bastelstu.be"
+        }
+    ]
+}
